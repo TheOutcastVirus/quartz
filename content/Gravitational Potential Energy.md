@@ -9,14 +9,17 @@ Links:
 tags:
 ---
 - Gravitational potential [[energy]] in an constant gravitational field is equal to:
-	- $$
-	U_{g} = mgh
-	$$
-	- $$
-	\Delta U_{g} = mg \Delta h
-	$$
+
+$$
+U_{g} = mgh
+$$
+
+$$
+\Delta U_{g} = mg \Delta h
+$$
 - The equation for universal gravitational potential energy is equal to 
-	- $$
-	U_{g} = -G {\frac{M_{1}M_{2}}{r}}
-	$$
+
+$$
+U_{g} = -G {\frac{M_{1}M_{2}}{r}}
+$$
 	- This equation is derived from integrating the force of gravity with regards to distance.
